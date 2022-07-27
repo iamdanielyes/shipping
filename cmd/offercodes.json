@@ -1,0 +1,26 @@
+[
+    {
+        "offerCode" : "OFR001",
+        "distMin" : 0,
+        "distMax" : 200,
+        "weightMin" : 70,
+        "weightMax" : 200,
+        "disc" : 10 
+    },
+    {
+        "offerCode" : "OFR002",
+        "distMin" : 50,
+        "distMax" : 150,
+        "weightMin" : 100,
+        "weightMax" : 250,
+        "disc" : 7 
+    },
+    {
+        "offerCode" : "OFR003",
+        "distMin" : 50,
+        "distMax" : 250,
+        "weightMin" : 10,
+        "weightMax" : 150,
+        "disc" : 5
+    } 
+]
